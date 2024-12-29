@@ -1,7 +1,7 @@
 ![logo](https://github.com/Mr-Red-Phoenix/Mr-Red-Phoenix/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner_20241229_195610_0000.png)
 <h1 align="center">Hi 👋, I'm Parth Sharma</h1>
 <h3 align="center">Where innovation meets execution. 📈</h3>
-<img align="right" alt="coding"width="400"src="https://tenor.com/7o4w.gif">
+<img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-red-phoenix&label=Profile%20views&color=0e75b6&style=flat" alt="mr-red-phoenix" /> </p>
 
 - 📫 How to reach me **mr.parthsharma20@gmail.com**
